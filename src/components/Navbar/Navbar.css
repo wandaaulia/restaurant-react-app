@@ -1,0 +1,15 @@
+.app__navbar-logo img {
+    width: 150px;
+}
+
+.height-30 {
+    height: 30px;
+}
+
+.top-bar {
+    top: 75px;
+}
+
+.border-navbar { 
+    border-bottom: 1px solid rgb(156 163 175);
+}

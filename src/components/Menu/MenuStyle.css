@@ -1,0 +1,12 @@
+
+@media screen and (min-width:1024px) and (max-width:1280px) {
+    .width-30 {
+        width: 25%;
+    }
+}
+
+@media screen and (min-width:1500px) {
+    .width-30 {
+        width: 25%;
+    }
+}
