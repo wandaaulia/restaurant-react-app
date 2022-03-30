@@ -18,8 +18,8 @@ const Header = () => {
 
 
 
-        <div className='px-0 lg:flex-1 lg:px-2 lg:py-32 md:pb-8 flex justify-center'>
-            <img src={images.welcome} alt="img welcome" className="w-4/5 h-auto"/>
+        <div className='px-0 lg:flex-1 lg:px-2 lg:py-32 md:pb-8 text-center'>
+            <img src={images.welcome} alt="img welcome" className="w-4/5"/>
         </div>
 
         </div>
