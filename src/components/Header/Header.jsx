@@ -11,7 +11,7 @@ const Header = () => {
             <SubHeading title="Chase The New Flavour"/>
             <div> 
             <h1 className='font-base font-bold capitalize text-5xl md:text-8xl md:py-6 lg:text-6xl 2xl:text-8xl color-golden py-2'> The Key To Fine Dining </h1>
-            <p className="text-xs md:text-2xl lg:text-2xl 2xl:text-xl font-base font-normal capitalize "> lorem ipsum Lorem ipsum, dolor sit amet consectetur adipisicing elit.  </p> 
+            <p className="text-xs md:text-2xl lg:text-2xl 2xl:text-lg font-base font-normal capitalize "> lorem ipsum Lorem ipsum, dolor sit amet consectetur adipisicing elit.  </p> 
             <button className='text-black md:text-2xl md:mt-3 2xl:text-xl lg:text-2xl rounded mt-2 p-1 text-base bg-white font-bold font-base background-crimson'> Explore Menu</button>
             </div>
         </div>
