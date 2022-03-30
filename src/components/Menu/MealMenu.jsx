@@ -25,8 +25,8 @@ const MealMenu = ({imgMeal, category}) => {
     return (
         <>
           <div className="w-2/5 p-2 width-30 lg:p-3 text-center">
-                       <div className='2xl:flex 2xl:justify-center flex justify-center'> 
-                       <img src={imgMeal} alt="img menu" className="w-3/5 lg:w-3/5 xl:w-3/5 md:w-4/5"/>
+                       <div className='2xl:flex 2xl:justify-center'> 
+                       <img src={imgMeal} alt="img menu" className="w-3/5 lg:w-3/5 xl:w-3/5 md:w-4/5 mx-auto"/>
                        </div>
                        <div className="flex justify-center"> 
                        <div className="md:text-4xl lg:text-2xl 2xl:text-3xl xl:text-3xl"> {renderSwitch(category)} </div>
