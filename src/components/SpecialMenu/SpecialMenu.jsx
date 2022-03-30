@@ -7,7 +7,7 @@ const SpecialMenu = () => {
     //images.menu
 
     return (
-        <div className="2xl:pt-0 background-black px-8 text-white pb-5 pt-10">
+        <div className="2xl:pt-0 background-black px-5 text-white pb-5 pt-10">
 
         <div className="flex flex-col justify-center items-center "> 
         <p className='text-sm font-base md:text-2xl lg:text-lg'> The Best Juice & Dessert for you </p>

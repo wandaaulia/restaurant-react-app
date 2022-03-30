@@ -12,7 +12,7 @@ const Navbar = () => {
     const [toggleBar, setToggleBar] = useState(false);
 
     return (
-        <nav className="background-black flex justify-between items-center w-full py-4 px-8"> 
+        <nav className="background-black flex justify-between items-center w-full py-4 px-5 2xl:px-8"> 
             <div className="flex justify-start items-center app__navbar-logo">
                 <img src={images.gericht} alt="app logo" />
             </div>

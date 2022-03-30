@@ -25,7 +25,7 @@ const Menu = () => {
         <div  className="h-px mt-1 w-8 bg-white"/>
         <h2 className="2xl:pt-4 font-semibold font-base pt-3 text-5xl color-golden md:text-7xl" id="menu"> Our Menu </h2>
 
-        <div className="2xl:mt-5 text-white mt-4 font-base text-xl lg:px-0 px-4 justify-center gap-2 flex flex-row flex-wrap">
+        <div className="2xl:mt-5 text-white mt-4 font-base text-xl lg:px-0 justify-center gap-2 flex flex-row flex-wrap">
                 {menuMeal.map((meal, index) => 
                    (
                     <MealMenu key={index} imgMeal={meal.strCategoryThumb} category={meal.strCategory} />
