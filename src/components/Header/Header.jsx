@@ -6,7 +6,7 @@ import './Header.css';
 const Header = () => {
 
     return (
-        <div className="2xl:pb-8 lg:pb-6  2xl:px-16 flex flex-col lg:flex-row lg:pt-18 pb-10 pt-8 px- lg:px-16 text-white lg:gap-x-1 background-black"> 
+        <div className="2xl:pb-8 lg:pb-6  2xl:px-16 flex flex-col lg:flex-row lg:pt-18 pb-10 pt-8 px-4 lg:px-16 text-white lg:gap-x-1 background-black"> 
         <div className="lg:flex-1 flex flex-col pb-8 md:pb-20 lg:pb-28 items-start justify-center">
             <SubHeading title="Chase The New Flavour"/>
             <div> 
